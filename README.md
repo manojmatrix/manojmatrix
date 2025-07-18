@@ -1,22 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Manoj
 
-<!--
-**manojmatrix/manojmatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a civic storyteller and creative technologist based in Hassan, Karnataka. I blend technical skills with cultural insight to build projects that raise awareness and drive impact—especially in public health and food safety.
 
-- # 👋 Hi, I'm Manoj
+## 🛠️ Skills & Tools
+- **Web Development**: HTML, CSS, JavaScript
+- **Creative Media**: AI tools for video editing, sound design, ad creation
+- **Technical Problem-Solving**: Image optimization, file compression, debugging
+- **Communication**: Strategic outreach, script refinement, multilingual storytelling
 
-I'm a software engineer passionate about  tech, s, and building web applications that make a difference.
+## 🎯 Current Projects
+- 🧪 amazon clone
 
-## 🛠️ Skills
-- HTML, CSS, JavaScript, SQL
-- Responsive Design, Git, API Integration
-- currently i'm working on ...full-stach web development
-- 🌱 I’m currently learning ...java
-- 👯 I’m looking to collaborate on ...both internship and job oppurtinities
+## 🌱 Learning & Growth
+- Exploring **Java** and **LeetCode** for structured problem-solving
 
-## 📂 Projects
-### 🛍️ [Amazon Clone]
-A front-end replica of Amazon's homepage using HTML, CSS, and JavaScript.
+
+## 📂 Featured Work
+- 🛍️ [Amazon Clone](https://github.com/manojmatrix/amazon-clone-)  
+  A front-end replica of Amazon's homepage using HTML and CSS.
+
+## 🤝 Let's Connect
+I'm open to internships, collaborations, and roles that combine creativity, technology, and social impact.
+
+📫 Reach me at: [GitHub](https://github.com/manojmatrix) | 
+
 
 
 
